@@ -1,2 +1,2 @@
 # trial
-#git repository for practice
+git repository for practice
